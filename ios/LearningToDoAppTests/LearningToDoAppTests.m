@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface LearningToDoAppTests : XCTestCase
+@interface ajaytodoTests : XCTestCase
 
 @end
 
-@implementation LearningToDoAppTests
+@implementation ajaytodoTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {

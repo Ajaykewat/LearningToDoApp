@@ -1,4 +1,4 @@
-package com.learningtodoapp
+package com.ajaytodo
 
 import android.app.Application
 import com.facebook.react.PackageList
